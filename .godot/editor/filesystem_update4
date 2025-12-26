@@ -2,3 +2,6 @@ res://scenes/slime.tscn
 res://scenes/main.tscn
 res://scripts/main.gd
 res://scenes/slime.gd
+res://fire_trap.tscn
+res://scenes/fire_trap.tscn
+res://scripts/fire_trap.gd
